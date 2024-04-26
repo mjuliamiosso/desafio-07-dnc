@@ -1,5 +1,5 @@
 # Desafio 7 - DNC
-Desafio: Aplique testes de integração para um API utilizando TypeScript.
+Desafio onde temos que realizar uma migração da linguagem JavaScript para TypeScript e fazer testes junto com o Jest.
 
 ### Tecnologias usadas:
 - Express
